@@ -5,9 +5,9 @@
 
 ## What this repository is
 
-This repository contains a curated collection of **AI Capability Briefs** — short, focused, professionally written PDF resources designed to help people **use artificial intelligence confidently, responsibly, and defensibly in real work**.
+This repository contains a curated collection of **AI Capability Briefs** — short, focused, professionally written PDF resources designed to help people use artificial intelligence confidently, responsibly, and defensibly in real work.
 
-Each brief is tailored to a **specific role, function, or context** (for example: Programme Directors, Research Teams, Public Servants, Communications and Engagement Teams) and applies the **CloudPedagogy AI Capability Framework (2026 Edition)** to the everyday decisions those roles face.
+Each brief is tailored to a specific role, function, or context (for example: Programme Directors, Research Teams, Public Servants, Communications and Engagement Teams) and applies the **CloudPedagogy AI Capability Framework (2026 Edition)** to the everyday decisions those roles face.
 
 These briefs are not about tools.  
 They are about **judgement, responsibility, ethics, and decision-making** when AI becomes part of professional practice.
@@ -18,14 +18,14 @@ They are about **judgement, responsibility, ethics, and decision-making** when A
 
 These briefs are designed for people working in:
 
-- education, curriculum, and assessment
-- research and research management
-- governance, assurance, and leadership
-- public service, policy, and humanitarian contexts
-- healthcare and public health (non-clinical roles)
-- cultural and creative organisations
-- professional services, consulting, and independent practice
-- information, library, and knowledge-management roles
+- education, curriculum, and assessment  
+- research and research management  
+- governance, assurance, and leadership  
+- public service, policy, and humanitarian contexts  
+- healthcare and public health (non-clinical roles)  
+- cultural and creative organisations  
+- professional services, consulting, and independent practice  
+- information, library, and knowledge-management roles  
 
 You do not need a technical background or prior AI expertise to use them.
 
@@ -34,23 +34,24 @@ You do not need a technical background or prior AI expertise to use them.
 ## What an AI Capability Brief is (and is not)
 
 ### An AI Capability Brief **is**:
-- a **decision-support resource**
-- a **role-specific guide** to responsible AI use
-- a **standalone PDF** you can read, share, print, or discuss
-- a way to build **confidence and clarity** without becoming an AI expert
+- a decision-support resource  
+- a role-specific guide to responsible AI use  
+- a standalone PDF you can read, share, print, or discuss  
+- a way to build confidence and clarity without becoming an AI expert  
 
 ### An AI Capability Brief **is not**:
-- a technical manual
-- a training course
-- a policy document
-- a list of AI tools
-- a compliance checklist
+- a technical manual  
+- a training course  
+- a policy document  
+- a list of AI tools  
+- a compliance checklist  
 
 Each brief helps answer questions such as:
-- *What is my responsibility when AI is used in this role?*
-- *Where should human judgement remain central?*
-- *What risks or blind spots should I watch for?*
-- *How can I explain or justify AI-supported decisions if challenged?*
+
+- What is my responsibility when AI is used in this role?  
+- Where should human judgement remain central?  
+- What risks or blind spots should I watch for?  
+- How can I explain or justify AI-supported decisions if challenged?  
 
 ---
 
@@ -58,13 +59,13 @@ Each brief helps answer questions such as:
 
 People use AI Capability Briefs to:
 
-- prepare for **meetings, committees, and reviews**
-- support **decision-making under uncertainty**
-- brief **senior leaders or stakeholders**
-- guide **ethical and governance discussions**
-- support **onboarding or professional development**
-- create a **shared language** for AI across teams
-- reduce anxiety about “getting AI wrong”
+- prepare for meetings, committees, and reviews  
+- support decision-making under uncertainty  
+- brief senior leaders or stakeholders  
+- guide ethical and governance discussions  
+- support onboarding or professional development  
+- create a shared language for AI across teams  
+- reduce anxiety about “getting AI wrong”  
 
 Each brief is designed to be read in **approximately 10–15 minutes** and can be used on its own.
 
@@ -76,21 +77,22 @@ All briefs are grounded in the **CloudPedagogy AI Capability Framework (2026 Edi
 
 The Framework defines six interdependent domains of mature AI capability:
 
-1. **AI Awareness & Orientation**  
-2. **Human–AI Co-Agency**  
-3. **Applied Practice & Innovation**  
-4. **Ethics, Equity & Impact**  
-5. **Decision-Making & Governance**  
-6. **Reflection, Learning & Renewal**
+- **AI Awareness & Orientation**  
+- **Human–AI Co-Agency**  
+- **Applied Practice & Innovation**  
+- **Ethics, Equity & Impact**  
+- **Decision-Making & Governance**  
+- **Reflection, Learning & Renewal**  
 
 Each brief:
-- interprets these six domains **for a specific role or context**
-- translates abstract principles into **practical judgement**
-- avoids repeating Framework text verbatim
-- shows how capability looks *in practice*, not just in theory
+
+- interprets these six domains for a specific role or context  
+- translates abstract principles into practical judgement  
+- avoids repeating Framework text verbatim  
+- shows how capability looks in practice, not just in theory  
 
 The Framework provides the structure.  
-The briefs provide **application**.
+The briefs provide application.
 
 ---
 
@@ -106,7 +108,7 @@ Briefs are organised by **capability context**, not by tools or technologies.
 - **Creative** — cultural institutions and creative practice  
 - **Individual practice** — consultants, freelancers, and professional services  
 - **Information services** — library, information, and knowledge stewardship  
-- **Cross-cutting** — contexts that apply across multiple sectors
+- **Cross-cutting** — contexts that apply across multiple sectors  
 
 ---
 
@@ -136,10 +138,11 @@ For commercial use or institutional partnerships, contact **CloudPedagogy**.
 CloudPedagogy develops **practical, ethical, and future-ready AI capability** across education, research, public service, and professional practice.
 
 These briefs form part of a wider ecosystem that includes:
-- the **AI Capability Framework (2026 Edition)**
-- application handbooks and practice guides
-- courses and workshops
-- future software and workflow tools
+
+- the **AI Capability Framework (2026 Edition)**  
+- application handbooks and practice guides  
+- courses and workshops  
+- future software and workflow tools  
 
 Learn more about the Framework and access related resources at:  
 https://www.cloudpedagogy.com/pages/ai-capability-framework
@@ -158,7 +161,8 @@ https://doi.org/10.5281/zenodo.17833663
 ## Suggested starting points
 
 If you are not sure where to begin:
-- start with the brief closest to your current role, or
-- read a **cross-cutting brief** alongside a role-specific one
+
+- start with the brief closest to your current role, or  
+- read a cross-cutting brief alongside a role-specific one  
 
 The goal is not mastery — it is **better judgement**.
