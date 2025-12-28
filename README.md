@@ -14,6 +14,23 @@ They are about **judgement, responsibility, ethics, and decision-making** when A
 
 ---
 
+## Supporting resources in this repository
+
+In addition to AI Capability Briefs, this repository also includes a small number of **supporting facilitation resources** that help educators, teams, and institutions *use* the Framework and briefs in practice.
+
+These supporting resources include:
+
+- **Scenario-based teaching and discussion materials**, such as the *AI Capability in Practice* quiz and facilitator guide, designed for seminars, workshops, and professional development
+- **Facilitation and briefing slide decks**, intended for use in meetings, training sessions, and structured conversations
+
+These materials are not briefs themselves.  
+They are **enablers** — designed to help people teach with, discuss, and operationalise AI capability across different contexts.
+
+The briefs remain the primary, standalone decision-support resources in this repository.
+
+
+---
+
 ## Who these briefs are for
 
 These briefs are designed for people working in:
